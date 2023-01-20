@@ -1,2 +1,2 @@
-# Daniel-s-Portfolio
-Fully Responsive Personal Portfolio using HTML and CSS ( Bootstrap )
+# Daniels-website--Bootstrap-Made-
+https://salmadarwish.github.io/Daniels-website--Bootstrap-Made-/
